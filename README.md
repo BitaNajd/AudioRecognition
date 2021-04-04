@@ -15,7 +15,7 @@ and
 
 Freesound General-Purpose Audio Tagging Challenge (https://www.kaggle.com/c/freesound-audio-tagging)
 
-to distinguish between sounds such as the sound of engines, Snoring, Drawer, tearing papers, cats and dogs etc.
+to distinguish between sounds such as the sound of engines, snoring, drawer, tearing papers, cats and dogs etc.
 
 
 
